@@ -1,4 +1,4 @@
-# MindVault - AI Personal Knowledge Base
+# Know - AI Personal Knowledge Base
 
 An AI-powered Personal Knowledge Management (PKM) application that enables users to create, organize, search, and interact with their notes using Retrieval-Augmented Generation (RAG).
 
@@ -197,7 +197,7 @@ This project demonstrates practical implementation of:
 
 ##  Author
 
-**Akshat Chawla**
+**Rashika Agarwal**
 
 B.Tech Computer Science Engineering
 
