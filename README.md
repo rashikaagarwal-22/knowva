@@ -104,7 +104,7 @@ backend/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Akshat1307/ai-personal-knowledge-base.git
+git clone https://github.com/rashikaagarwal-22/knowva.git
 ```
 
 ### Install dependencies
