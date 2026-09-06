@@ -1,4 +1,4 @@
-# Know - AI Personal Knowledge Base
+# Knowva - AI Personal Knowledge Base
 
 An AI-powered Personal Knowledge Management (PKM) application that enables users to create, organize, search, and interact with their notes using Retrieval-Augmented Generation (RAG).
 
